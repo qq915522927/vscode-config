@@ -1,0 +1,13 @@
+{
+    "terminal.external.linuxExec": "iterm2",
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.macOptionIsMeta": true,
+    "C_Cpp.updateChannel": "Insiders",
+    "explorer.confirmDelete": false,
+    "[python]": {},
+    "window.zoomLevel": 0,
+    "editor.fontSize": 13,
+    "editor.mouseWheelZoom": true,
+    "terminal.integrated.fontSize": 14,
+    "files.defaultLanguage": "markdown"
+}
