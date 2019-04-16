@@ -1,0 +1,15 @@
+{
+    "python.pythonPath": "/Users/zhiwenw/scotvenv/bin/python",
+    "python.linting.pep8Enabled": true,
+    "python.linting.pylintPath": "/Users/zhiwenw/scotvenv/bin/pylint",
+    "python.linting.pylintEnabled": true,
+    "python.venvPath": "/Users/zhiwenw/scotvenv",
+    "python.pipenvPath": "/Users/zhiwenw/scotvenv/bin/pip",
+    "python.linting.enabled": true,
+    "python.unitTest.pyTestArgs": [
+        "."
+    ],
+    "python.unitTest.unittestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.pyTestEnabled": false
+}
