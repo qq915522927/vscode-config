@@ -9,5 +9,6 @@
     "editor.fontSize": 13,
     "editor.mouseWheelZoom": true,
     "terminal.integrated.fontSize": 14,
-    "files.defaultLanguage": "markdown"
+    "files.defaultLanguage": "markdown",
+    "diffEditor.ignoreTrimWhitespace": true
 }
